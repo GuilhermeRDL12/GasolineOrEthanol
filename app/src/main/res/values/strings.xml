@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Gasoline or Ethanol</string>
+    <string name="descriptionGasoline">Price Of The Liter Of Gasoline</string>
+    <string name="descriptionEthanol">Liter Price Of Ethanol</string>
+    <string name="betterOption">It is better to use</string>
+    <string name="typeFuel">Type Of Fuel</string>
+    <string name="gasoline">Gasoline</string>
+    <string name="ethanol">Ethanol</string>
+    <string name="nothing">-</string>
+    <string name="description">Combustivel</string>
+</resources>

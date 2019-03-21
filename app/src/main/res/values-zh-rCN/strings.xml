@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">汽油或乙醇</string>
+    <string name="descriptionGasoline">汽油升的价格</string>
+    <string name="descriptionEthanol">乙醇的升价</string>
+    <string name="betterOption">最好使用</string>
+    <string name="typeFuel">燃料类型</string>
+    <string name="gasoline">汽油</string>
+    <string name="ethanol">乙醇</string>
+    <string name="nothing">-</string>
+</resources>
